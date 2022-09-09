@@ -1,5 +1,4 @@
 import random
-from turtle import width
 
 # Initial Question for user
 question_response = int(input('How many dice would you like to roll? (1-6) '))
